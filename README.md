@@ -3,7 +3,7 @@
 
 
 # UACPirate
-UACPirate is a malicious windows UAC Prompt which will transmit credentials back to the attacker. This tool is meant to be used by Red Teams, Penetration testers, etc. 
+UACPirate is a malicious (and fake) windows UAC Prompt which will transmit credentials back to the attacker. This tool is meant to be used by Red Teams, Penetration testers, etc. 
 
 ![UACPrompt](https://raw.githubusercontent.com/EnigmaMe/UACPirate/master/UACExample.png)
 
