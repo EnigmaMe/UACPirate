@@ -1,0 +1,10 @@
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\bin\Debug\UACPirate.exe.config
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\bin\Debug\UACPirate.exe
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\bin\Debug\UACPirate.pdb
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.csprojAssemblyReference.cache
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.Form1.resources
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.Properties.Resources.resources
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.GenerateResource.cache
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.CoreCompileInputs.cache
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.exe
+C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.pdb
